@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17953714551",
+    "project_id": "zylu-e9322",
+    "storage_bucket": "zylu-e9322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17953714551:android:1e8059ec9b7f6caa4a7172",
+        "android_client_info": {
+          "package_name": "com.example.zylu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Jc7SlN7a5zZegswRLI-Kd-0u-dV5Lts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
