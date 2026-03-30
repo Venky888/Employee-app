@@ -6,7 +6,7 @@ import 'package:zylu/features/employees/model/employee_model.dart';
 class EmployeeRepository {
   Future<List<Employee>> getEmployees() async {
     final response = await http.get(
-      Uri.parse('http://192.168.1.103:9000/api/employees'),
+      Uri.parse('http://192.168.1.100:9000/api/employees'),
     );
 
     if (response.statusCode == 200) {

@@ -14,6 +14,7 @@ class EmployeeBloc extends Bloc<EmployeeEvents, EmployeeStates> {
     FetchEmployees event,
     Emitter<EmployeeStates> emit,
   ) async {
+   
     try {
       final currentState = state;
 
